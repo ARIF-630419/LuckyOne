@@ -4,14 +4,15 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './Computer.css'
 
 const Computer = ({ handleAddToCart, computer }) => {
-    const { name, img, price } = computer;
+    const { name, img, price, id } = computer;
 
     return (
         <div className='computer-card'>
             <img src={img} alt="Computer" />
             <div className='computer-info'>
-                <h3>{name}</h3>
-                <h4>Price:${price}</h4>
+                <h3>Name : {name}</h3>
+                <h4>Price : ${price}</h4>
+                <h5>ID : {id}</h5>
 
 
             </div>

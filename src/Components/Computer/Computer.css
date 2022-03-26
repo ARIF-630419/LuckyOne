@@ -14,6 +14,9 @@
 .computer-info {
     padding-left: 20px;
 }
+.computer-info h3,h4,h5{
+    margin: 7px;
+}
 .computer-btn{
     width: 100%;
     position: absolute;
