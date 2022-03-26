@@ -12,7 +12,12 @@ const Computers = () => {
             .then(data => setComputers(data))
     }, [])
 
+    const removeItem = () => {
+        setCart([]);
+
+    }
     const handleAddToCart = (computer) => {
+
         const newCart = [...cart, computer];
         setCart(newCart);
     }
@@ -30,8 +35,10 @@ const Computers = () => {
                     }
                 </div>
                 <div className='computers-cart'>
-
-                    <Cart cart={cart}></Cart>
+                    <Cart
+                        cart={cart}
+                        removeItem={removeItem}
+                    ></Cart>
                 </div>
             </div>
         </div>
