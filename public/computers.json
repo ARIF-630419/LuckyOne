@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Acer Extensa",
+    "price": 44490,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "2",
+    "name": "Dell Inspiron",
+    "price": 39600,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "3",
+    "name": "Lenovo IdeaPad",
+    "price": 47740,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "4",
+    "name": "Dell Vostro ",
+    "price": 48830,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "5",
+    "name": "Dell Inspiron 15",
+    "price": 55800,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "6",
+    "name": "Acer Aspire 3",
+    "price": 74850,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "7",
+    "name": "Asus X515MA",
+    "price": 42500,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "8",
+    "name": "HP 15s-du1117TU",
+    "price": 44020,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "9",
+    "name": "Acer Extensa 15",
+    "price": 46520,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "10",
+    "name": "Asus VivoBook ",
+    "price": 78250,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "11",
+    "name": "Asus ZenBook",
+    "price": 96320,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  },
+  {
+    "id": "12",
+    "name": "HP Pavilion",
+    "price": 56300,
+    "img": "https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTc0NDY0NTMyOTQzNDgwNDU0/buying-your-first-desktop-computer.jpg?fbclid=IwAR0rjG28RMTsyNKPTpht8GGmfhbz0qNJsz1RpE5xRRN13LrUH5grBq_IbrQ"
+  }
+]
